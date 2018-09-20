@@ -4,7 +4,9 @@ A Flask server serving a Vue JS single page app and an API that provides slack a
 
 ## How to dev
 It is advised to run both frontend and backend separately
+
 Frontend: `npm install; npm run start`
+
 Backend: `FLASK_APP=run.py FLASK_DEBUG=1 flask run`
 
 ## Build & deploy
