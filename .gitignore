@@ -1,0 +1,8 @@
+config.ini
+venv/*
+frontend/node_modules/*
+*.pyc
+dist/*
+.idea/
+npm-debug.log
+backend/test/*
